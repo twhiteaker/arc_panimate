@@ -11,6 +11,9 @@ can then use the extents to export images or save the extents for later use.
 The exported images can be assembled into a video file using video creation
 software.
 
+Demo video:
+https://www.youtube.com/watch?v=67rJbNhZopA
+
 # Requires
 
 * ArcGIS for Desktop version 10.1 or greater.
